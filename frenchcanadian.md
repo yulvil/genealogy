@@ -37,8 +37,18 @@ Drouin: all marriages from 1608 to 1760
 
 ### Others
 
+#### DNA
+
+Ask your DNA matches for their family tree
+
+#### Sex Offenders
+
 [Maine Sex Offenders Registry](http://sor.informe.org/cgi-bin/sor/step2.pl?id=1870&last_name=&first_name=&city=%25)
+
+[Vermont Sex Offenders Registry](http://www.communitynotification.com/cap_office_disclaimer.php?office=55275)
 
 [New Hampshire Sex Offenders Registry](http://business.nh.gov/nsor/)
 
 [New York Sex Offenders Registry](http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp)
+
+[](http://www.mass.gov/eopss/agencies/sorb/)
