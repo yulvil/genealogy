@@ -51,4 +51,4 @@ Ask your DNA matches for their family tree
 
 [New York Sex Offenders Registry](http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp)
 
-[](http://www.mass.gov/eopss/agencies/sorb/)
+[Mass Sex Offenders Registry](http://www.mass.gov/eopss/agencies/sorb/)
