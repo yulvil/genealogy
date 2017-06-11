@@ -2,16 +2,24 @@
 ### General Resources
 
 [Library and Archives Canada](http://www.bac-lac.gc.ca/fra/decouvrez/genealogie/Pages/introduction.aspx)
-
+ * [Automated Genealogy](http://automatedgenealogy.com/)
+ 
 [BAnQ Databases](http://www.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/)
-
+ * [Registres de l'état civil du Québec des origines à 1916](http://bibnum2.banq.qc.ca/bna/ecivil/)
+ * [Archives des notaires du Québec des origines à 1936](http://bibnum2.banq.qc.ca/bna/notaires/)
+ 
 [BMS2000](http://www.bms2000.org). Create a free account. There is a lot of information you can deduce without having to use credits.
+
+[Fichier Origine](http://fichierorigine.com/)
 
 [Wikitree](https://www.wikitree.com). Free.
 
 [Family Search](https://familysearch.org/). Create a free account.
+ * [Quebec, Canada Genealogy](https://familysearch.org/wiki/en/Quebec,_Canada_Genealogy)
 
 [French-Canadian Genealogy Dictionaries](https://familysearch.org/wiki/en/French-Canadian_Genealogy_Dictionaries_(National_Institute))
+
+[PRDH](https://www.genealogie.umontreal.ca/en/home)
 
 https://www.americanancestors.org/education/learning-resources/read/french-canadian-guide
 
@@ -19,7 +27,9 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
 
 Ask your siblings, parents, grand-parents.
 
-Search Google for "necrologie" and the husband and wife or parents names.
+Necrology
+ * Search Google for "necrologie" and the husband and wife or parents names.
+ * [Fédération Québécoise des Sociétés de Généalogie](http://federationgenealogie.qc.ca/base-de-donnees/avis-de-deces/)
 
 ### 1861-1921
 
