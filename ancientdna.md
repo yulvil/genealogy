@@ -12,3 +12,6 @@
 
 #### Moses Schanfield - George Washington University
 * [Where Did We All Come From? Tracing Human Migration Using Genetic Markers](https://www.youtube.com/watch?v=dhOYxbsifkI)
+
+## Classes
+* [John Hawks - Human Evolution Past and Future](https://www.coursera.org/course/humanevolution) Coursera
