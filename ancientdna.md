@@ -15,3 +15,6 @@
 
 ## Classes
 * [John Hawks - Human Evolution Past and Future](https://www.coursera.org/course/humanevolution) Coursera
+
+## Articles
+* [In Neanderthal DNA, Signs of a Mysterious Human Migration - NY Times](https://www.nytimes.com/2017/07/04/science/neanderthals-dna-homo-sapiens-human-evolution.html)
