@@ -51,6 +51,17 @@ Drouin: all marriages from 1608 to 1760
 
 ### Others
 
+### Bibliothèques
+* [Longueuil](https://www.longueuil.quebec/fr/bibliotheques-ressources)
+  * Mesaieux.com
+  * Parchemin
+  * Registres numérisés du Fonds Drouin
+* [Brossard](http://biblio.brossard.ca/ressources-en-ligne/)
+  * PRDH
+  * Ancestry
+* [Roxboro](http://ville.montreal.qc.ca/portal/page?_pageid=4276,5623059&_dad=portal&_schema=PORTAL&section=accueil&lieu=46)
+  * Passenger and Immigration List Index 
+
 #### DNA
 
 Ask your DNA matches for their family tree
