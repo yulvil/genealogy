@@ -55,6 +55,10 @@ Drouin: all marriages from 1608 to 1760
 
 Ask your DNA matches for their family tree
 
+#### USA
+
+[Genealogical Dictionary of Maine and New Hampshire](http://search.ancestry.com/search/db.aspx?dbid=3166)
+
 #### Sex Offenders
 
 [Maine Sex Offenders Registry](http://sor.informe.org/cgi-bin/sor/step2.pl?id=1870&last_name=&first_name=&city=%25)
