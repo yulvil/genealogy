@@ -70,6 +70,8 @@ Ask your DNA matches for their family tree
 
 [Genealogical Dictionary of Maine and New Hampshire](http://search.ancestry.com/search/db.aspx?dbid=3166)
 
+[Index to New England naturalization petitions, 1791-1906](https://www.familysearch.org/search/catalog/19737?availability=Family%20History%20Library) -> [Search](https://www.familysearch.org/search/collection/1840474)
+
 #### Sex Offenders
 
 [Maine Sex Offenders Registry](http://sor.informe.org/cgi-bin/sor/step2.pl?id=1870&last_name=&first_name=&city=%25)
@@ -81,3 +83,5 @@ Ask your DNA matches for their family tree
 [New York Sex Offenders Registry](http://www.criminaljustice.ny.gov/SomsSUBDirectory/search_index.jsp)
 
 [Mass Sex Offenders Registry](http://www.mass.gov/eopss/agencies/sorb/)
+
+
