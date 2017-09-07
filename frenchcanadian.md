@@ -72,6 +72,13 @@ Ask your DNA matches for their family tree
 
 [Index to New England naturalization petitions, 1791-1906](https://www.familysearch.org/search/catalog/19737?availability=Family%20History%20Library) -> [Search](https://www.familysearch.org/search/collection/1840474)
 
+#### Rhode Island
+* [Rhode Island State Census, 1885](https://www.familysearch.org/search/collection/1794115)
+* [Rhode Island State Census, 1905](https://www.familysearch.org/search/collection/1542866)
+* [Rhode Island State Census, 1915](https://www.familysearch.org/search/collection/1532188)
+* [Rhode Island State Census, 1925](https://www.familysearch.org/search/collection/1532195)
+* [Rhode Island State Census, 1935](https://www.familysearch.org/search/collection/1529126)
+
 #### Sex Offenders
 
 [Maine Sex Offenders Registry](http://sor.informe.org/cgi-bin/sor/step2.pl?id=1870&last_name=&first_name=&city=%25)
