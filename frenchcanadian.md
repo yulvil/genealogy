@@ -67,6 +67,8 @@ Drouin: all marriages from 1608 to 1760
 Ask your DNA matches for their family tree
 
 #### USA
+https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Records
+
 * [United States Census, 1850](https://www.familysearch.org/search/collection/1401638)
 * [United States Census, 1860](https://www.familysearch.org/search/collection/1473181)
 * [United States Census, 1870](https://www.familysearch.org/search/collection/1438024)
@@ -74,9 +76,9 @@ Ask your DNA matches for their family tree
 * [United States Census, 1890](https://www.familysearch.org/search/collection/1610551) ??
 * [United States Census, 1900](https://www.familysearch.org/search/collection/1325221)
 * [United States Census, 1910](https://www.familysearch.org/search/collection/1727033)
-* [United States Census, 1920](https://familysearch.org/1920census) ??
-* [United States Census, 1930](https://familysearch.org/1930census) ??
-* [United States Census, 1940](https://familysearch.org/1940census)
+* [United States Census, 1920](https://www.familysearch.org/search/collection/1488411)
+* [United States Census, 1930](https://www.familysearch.org/search/collection/1810731)
+* [United States Census, 1940](https://www.familysearch.org/search/collection/2000219) or [1940](https://familysearch.org/1940census)
 
 [Genealogical Dictionary of Maine and New Hampshire](http://search.ancestry.com/search/db.aspx?dbid=3166)
 
