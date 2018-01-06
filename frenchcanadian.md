@@ -69,6 +69,7 @@ Ask your DNA matches for their family tree
 #### USA
 https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Records
 
+* [United States Census, 1840](https://www.familysearch.org/search/collection/1786457)
 * [United States Census, 1850](https://www.familysearch.org/search/collection/1401638)
 * [United States Census, 1860](https://www.familysearch.org/search/collection/1473181)
 * [United States Census, 1870](https://www.familysearch.org/search/collection/1438024)
