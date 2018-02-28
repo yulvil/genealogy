@@ -28,6 +28,10 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
 
 [Provincial Archives of New Brunswick](http://archives.gnb.ca/archives/?culture=en-CA)
 
+### Newspapers
+
+* [BAnQ Patrimoine Québecois](http://numerique.banq.qc.ca/patrimoine/)
+
 ### 1921-
 
 Ask your siblings, parents, grand-parents.
