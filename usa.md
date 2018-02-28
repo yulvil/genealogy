@@ -27,7 +27,7 @@ https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Recor
 * [Rhode Island State Census, 1935](https://www.familysearch.org/search/collection/1529126)
 
 ### Newspapers
-* [Fulton History](fultonhistory.com/Fulton.html)
+* [Fulton History](http://fultonhistory.com/Fulton.html)
 * [Library of Congress - Chronicling America](https://chroniclingamerica.loc.gov/)
 * [California Digital Newspaper Collection](https://cdnc.ucr.edu/)
 
