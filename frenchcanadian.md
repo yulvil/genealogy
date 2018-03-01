@@ -31,6 +31,17 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
 ### Newspapers
 
 * [BAnQ Patrimoine Québecois](http://numerique.banq.qc.ca/patrimoine/)
+  * [Progrès du Saguenay, 1887-1964](http://collections.banq.qc.ca/ark:/52327/2614356)
+  * [Progrès-dimanche, 1974-1977, 2001-2012](http://collections.banq.qc.ca/ark:/52327/2879652)
+  * [La Sentinelle, 1936-1943](http://collections.banq.qc.ca/ark:/52327/2691652)
+  * [Le soleil du Saguenay-Lac-Saint-Jean 1970-1973](http://collections.banq.qc.ca/ark:/52327/3111001)
+  * [Le lingot du Saguenay, 1943-1947](http://collections.banq.qc.ca/ark:/52327/2747399)
+  * [Le lingot, 1947-2011](http://collections.banq.qc.ca/ark:/52327/2871339)
+  * [La Défense 1898-1905 (Chicoutimi)](http://collections.banq.qc.ca/ark:/52327/1780704)
+  * [Le Progrès du Golfe 1904-1970](http://collections.banq.qc.ca/ark:/52327/2000122)
+  * [L'Écho de Charlevoix 1898-1908](http://collections.banq.qc.ca/ark:/52327/1935360)
+  * [Le Quotidien 1879-1937 (Lévis)](http://collections.banq.qc.ca/ark:/52327/1816784)
+  * [Le Colon 1917-1946 (Roberval)](http://collections.banq.qc.ca/ark:/52327/2059724)
 
 ### 1921-
 
