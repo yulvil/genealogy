@@ -70,3 +70,6 @@ Drouin: all marriages from 1608 to 1760
 #### DNA
 
 Ask your DNA matches for their family tree
+
+#### Magazines
+* [Revue d'histoire du Bas Saint-Laurent](http://semaphore.uqar.ca/cgi/search/archive/simple?order=date%2Fcreators_name%2Ftitle&_action_search=Trier&screen=Search&dataset=archive&exp=0%7C1%7C-date%2Fcreators_name%2Ftitle%7Carchive%7C-%7Cq%3Aabstract%2Fcreators_name%2Fdate%2Fdocuments%2Ftitle%3AALL%3AIN%3A+Revue+histoire+Bas+Saint-Laurent%7C-%7Ceprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive%7Cmetadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow)
