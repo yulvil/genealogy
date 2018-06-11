@@ -26,6 +26,9 @@ https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Recor
 * [Rhode Island State Census, 1925](https://www.familysearch.org/search/collection/1532195)
 * [Rhode Island State Census, 1935](https://www.familysearch.org/search/collection/1529126)
 
+### Vermont
+* [Vermont Vital Records, 1760-1954](https://www.familysearch.org/search/collection/1784223)
+
 ### Newspapers
 * [Fulton History](http://fultonhistory.com/Fulton.html)
 * [Library of Congress - Chronicling America](https://chroniclingamerica.loc.gov/)
