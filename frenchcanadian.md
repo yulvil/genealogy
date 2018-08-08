@@ -2,7 +2,20 @@
 ### General Resources
 
 [Library and Archives Canada](http://www.bac-lac.gc.ca/fra/decouvrez/genealogie/Pages/introduction.aspx)
- * [Automated Genealogy](http://automatedgenealogy.com/)
+ * [Census of 1851](https://www.bac-lac.gc.ca/eng/census/1851/Pages/1851.aspx)
+ * [Census of 1861](https://www.bac-lac.gc.ca/eng/census/1861/Pages/1861.aspx)
+ * [Census of 1871](https://www.bac-lac.gc.ca/eng/census/1871/Pages/1871.aspx)
+ * [Census of 1881](https://www.bac-lac.gc.ca/eng/census/1881/Pages/1881.aspx)
+ * [Census of 1891](https://www.bac-lac.gc.ca/eng/census/1891/Pages/1891.aspx)
+ * [Census of 1901](https://www.bac-lac.gc.ca/eng/census/1901/Pages/1901.aspx)
+ * [Census of 1911](https://www.bac-lac.gc.ca/eng/census/1911/Pages/1911.aspx)
+ * [Census of 1921](https://www.bac-lac.gc.ca/eng/census/1921/Pages/search.aspx)
+ * [Personnel Records of the First World War](http://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/search.aspx)
+ * [Collection Search](http://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx)
+ * [Ancestors Search](http://www.bac-lac.gc.ca/eng/search/Pages/ancestors-search.aspx)
+ * [National Union Catalog](http://www.bac-lac.gc.ca/eng/services/national-union-catalogue/Pages/national-union-catalogue.aspx)
+
+[Automated Genealogy](http://automatedgenealogy.com/)
  
 [BAnQ Databases](http://www.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/)
  * [Registres de l'état civil du Québec des origines à 1916](http://bibnum2.banq.qc.ca/bna/ecivil/)
