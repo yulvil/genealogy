@@ -15,6 +15,8 @@ https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Recor
 * [United States Census, 1930](https://www.familysearch.org/search/collection/1810731)
 * [United States Census, 1940](https://www.familysearch.org/search/collection/2000219) or [1940](https://familysearch.org/1940census)
 
+[United States Border Crossings from Canada to United States, 1895-1956](https://www.familysearch.org/search/collection/1803785)
+
 [Genealogical Dictionary of Maine and New Hampshire](http://search.ancestry.com/search/db.aspx?dbid=3166)
 
 [Index to New England naturalization petitions, 1791-1906](https://www.familysearch.org/search/catalog/19737?availability=Family%20History%20Library) -> [Search](https://www.familysearch.org/search/collection/1840474)
