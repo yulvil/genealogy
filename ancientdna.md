@@ -1,11 +1,15 @@
 ## Videos
 
+#### David Reich - Harvard Medical School
+* NIH [Ancient DNA and the new science of the human past](https://www.youtube.com/watch?v=EfHGhWfxWoA)
+* [The Genomic Ancient DNA Revolution](https://www.youtube.com/watch?v=Iq0Uur4Oiz4)
+
 #### John David Hawks - University of Wisconsin–Madison
 * [Are We the Last Neanderthals?](https://www.youtube.com/watch?v=0uRCVyJ7-0c)
-
-#### David Reich - Harvard Medical School
-* [The Genomic Ancient DNA Revolution](https://www.youtube.com/watch?v=Iq0Uur4Oiz4)
-* NIH [Ancient DNA and the new science of the human past](https://www.youtube.com/watch?v=EfHGhWfxWoA)
+* [Deep history within the human genome](https://www.youtube.com/watch?v=NS7KsabTyUU)
+* [Ancient genomes 1: The Denisovans](https://www.youtube.com/watch?v=5OVRLKI0MK4)
+* [Ancient genomes 2: Neandertals within us](https://www.youtube.com/watch?v=UTe6vEyhULI)
+* [WN@TL - How New Discoveries of Homo naledi are Changing Human Origins](https://www.youtube.com/watch?v=7mBIFFstNSo)
 
 #### Svante Pääbo
 * NIH [Archaic Genomics](https://www.youtube.com/watch?v=M7VdRKQuAa8)
