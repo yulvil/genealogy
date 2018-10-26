@@ -29,9 +29,13 @@ https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Recor
 * [Rhode Island State Census, 1935](https://www.familysearch.org/search/collection/1529126)
 
 ### New York
+* [New York State Census, 1855](https://www.familysearch.org/search/collection/1937366)
 * [New York State Census, 1865](https://www.familysearch.org/search/collection/1491284)
 * [New York State Census, 1875](https://www.familysearch.org/search/collection/1918735)
+* [New York State Census, 1892](https://www.familysearch.org/search/collection/1529100)
 * [New York State Census, 1905](https://www.familysearch.org/search/collection/1463113)
+* [New York State Census, 1915](https://www.familysearch.org/search/collection/1937454)
+* [New York State Census, 1925](https://www.familysearch.org/search/collection/1937489)
 
 ### Vermont
 * [Vermont Vital Records, 1760-1954](https://www.familysearch.org/search/collection/1784223)
