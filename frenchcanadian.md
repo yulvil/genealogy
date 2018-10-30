@@ -37,8 +37,6 @@
 
 https://www.americanancestors.org/education/learning-resources/read/french-canadian-guide
 
-[Manitoba.ca Vital Statistics Agency](https://vitalstats.gov.mb.ca/Query.php)
-
 [Provincial Archives of New Brunswick](http://archives.gnb.ca/archives/?culture=en-CA)
 
 ### Newspapers
