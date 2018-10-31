@@ -30,7 +30,8 @@
 [Family Search](https://familysearch.org/). Create a free account.
  * [Quebec, Canada Genealogy](https://familysearch.org/wiki/en/Quebec,_Canada_Genealogy)
  * [Quebec, Catholic Parish Registers, 1621-1979](https://www.familysearch.org/search/collection/1321742)
-
+ * [Historical Record Collections - Canada](https://www.familysearch.org/search/collection/list?page=1&cqs=Canada)
+ 
 [French-Canadian Genealogy Dictionaries](https://familysearch.org/wiki/en/French-Canadian_Genealogy_Dictionaries_(National_Institute))
 
 [PRDH](https://www.genealogie.umontreal.ca/en/home)
