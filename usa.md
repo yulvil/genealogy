@@ -36,9 +36,19 @@ https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Recor
 * [New York State Census, 1905](https://www.familysearch.org/search/collection/1463113)
 * [New York State Census, 1915](https://www.familysearch.org/search/collection/1937454)
 * [New York State Census, 1925](https://www.familysearch.org/search/collection/1937489)
+* [New York, County Naturalization Records, 1791-1980](https://www.familysearch.org/search/collection/1999177)
 
 ### Vermont
 * [Vermont Vital Records, 1760-1954](https://www.familysearch.org/search/collection/1784223)
+
+### Maine
+* [Maine, United States Naturalization Records, 1918-1991](https://www.familysearch.org/search/collection/2613134)
+
+### Massachusetts
+* [Massachusetts, United States Naturalization Records, 1871-1991](https://www.familysearch.org/search/collection/2632082)
+
+### Michigan
+* [Michigan, County Births, 1867-1917](https://www.familysearch.org/search/collection/1923472)
 
 ### Newspapers
 * [Fulton History](http://fultonhistory.com/Fulton.html)
