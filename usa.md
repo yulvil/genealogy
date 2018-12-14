@@ -51,7 +51,11 @@ https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Recor
 * [Michigan, County Births, 1867-1917](https://www.familysearch.org/search/collection/1923472)
 
 ### Minnesota
+* [Minnesota State Census, 1865](https://www.familysearch.org/search/collection/1503054)
+* [Minnesota State Census, 1875](https://www.familysearch.org/search/collection/1503053)
 * [Minnesota State Census, 1885](https://www.familysearch.org/search/collection/1503044)
+* [Minnesota State Census, 1895](https://www.familysearch.org/search/collection/1503031)
+* [Minnesota State Census, 1905](https://www.familysearch.org/search/collection/1503056)
 
 ### Newspapers
 * [Fulton History](http://fultonhistory.com/Fulton.html)
