@@ -15,6 +15,10 @@ https://www.familysearch.org/wiki/en/United_States_Census_Online_Genealogy_Recor
 * [United States Census, 1930](https://www.familysearch.org/search/collection/1810731)
 * [United States Census, 1940](https://www.familysearch.org/search/collection/2000219) or [1940](https://familysearch.org/1940census)
 
+[United States World War I Draft Registration Cards, 1917-1918](https://www.familysearch.org/search/collection/1968530)
+
+[United States World War II Draft Registration Cards, 1942](https://www.familysearch.org/search/collection/1861144)
+
 [United States Border Crossings from Canada to United States, 1895-1956](https://www.familysearch.org/search/collection/1803785)
 
 [Genealogical Dictionary of Maine and New Hampshire](http://search.ancestry.com/search/db.aspx?dbid=3166)
