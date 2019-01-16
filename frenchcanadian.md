@@ -54,7 +54,8 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
   * [L'Écho de Charlevoix 1898-1908](http://collections.banq.qc.ca/ark:/52327/1935360)
   * [Le Quotidien 1879-1937 (Lévis)](http://collections.banq.qc.ca/ark:/52327/1816784)
   * [Le Colon 1917-1946 (Roberval)](http://collections.banq.qc.ca/ark:/52327/2059724)
-
+  * [Le Canada 1903-1954 (Montréal)](http://collections.banq.qc.ca/ark:/52327/3559753)
+  
 ### 1921-
 
 Ask your siblings, parents, grand-parents.
