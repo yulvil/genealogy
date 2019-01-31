@@ -110,3 +110,14 @@ Ask your DNA matches for their family tree
 | 1791-1841     | [Bas-Canada](https://fr.wikipedia.org/wiki/Bas-Canada) | [Lower Canada](https://en.wikipedia.org/wiki/Lower_Canada) |
 | 1841-1867 | [Province du Canada](https://fr.wikipedia.org/wiki/Province_du_Canada) | [Province of Canada](https://en.wikipedia.org/wiki/Province_of_Canada) |
 | 1867- | [Canada](https://fr.wikipedia.org/wiki/Canada) | [Canada](https://en.wikipedia.org/wiki/Canada) |
+
+## Statistics
+
+Répartition de 5 000 noms dans les régions administratives, Québec
+* [A-B](http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/ra_a-b.htm)
+* [C-D](http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/ra_c-d.htm)
+* [E-K](http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/ra_e-k.htm)
+* [L-M](http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/ra_l-m.htm)
+* [N-R](http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/ra_n-r.htm)
+* [S-Z](http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/ra_s-z.htm)
+
