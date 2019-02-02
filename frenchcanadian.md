@@ -50,12 +50,18 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
   * [Le lingot du Saguenay, 1943-1947](http://collections.banq.qc.ca/ark:/52327/2747399)
   * [Le lingot, 1947-2011](http://collections.banq.qc.ca/ark:/52327/2871339)
   * [La Défense 1898-1905 (Chicoutimi)](http://collections.banq.qc.ca/ark:/52327/1780704)
+  * [Focus, 1977-1981 (Saguenay-Lac-St-Jean)](http://collections.banq.qc.ca/ark:/52327/2742516)
   * [Le Progrès du Golfe 1904-1970](http://collections.banq.qc.ca/ark:/52327/2000122)
   * [L'Écho de Charlevoix 1898-1908](http://collections.banq.qc.ca/ark:/52327/1935360)
   * [Le Quotidien 1879-1937 (Lévis)](http://collections.banq.qc.ca/ark:/52327/1816784)
   * [Le Colon 1917-1946 (Roberval)](http://collections.banq.qc.ca/ark:/52327/2059724)
   * [Le Canada 1903-1954 (Montréal)](http://collections.banq.qc.ca/ark:/52327/3559753)
-  
+  * [La Presse 1884-2015](http://collections.banq.qc.ca/ark:/52327/3216691)
+  * [Le Soleil 1896-2015](http://collections.banq.qc.ca/ark:/52327/3482838)
+  * [Le Devoir 1910-2012](http://collections.banq.qc.ca/ark:/52327/2786824)
+  * [Le Nouvelliste (Trois-Rivière) 1921-2016](http://collections.banq.qc.ca/ark:/52327/3203520)
+  * [Le Courrier de St-Hyacinthe 1853-2007](http://collections.banq.qc.ca/ark:/52327/2581442)
+
 ### 1921-
 
 Ask your siblings, parents, grand-parents.
