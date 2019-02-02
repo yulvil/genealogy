@@ -44,7 +44,7 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
 
 * [BAnQ Patrimoine Québecois](http://numerique.banq.qc.ca/patrimoine/)
   * [Progrès du Saguenay, 1887-1964](http://collections.banq.qc.ca/ark:/52327/2614356)
-  * [Progrès-dimanche, 1974-1977, 2001-2012](http://collections.banq.qc.ca/ark:/52327/2879652)
+  * [Progrès-dimanche, 1974-1977, 1997-2012](http://collections.banq.qc.ca/ark:/52327/2879652)
   * [La Sentinelle, 1936-1943](http://collections.banq.qc.ca/ark:/52327/2691652)
   * [Le soleil du Saguenay-Lac-Saint-Jean 1970-1973](http://collections.banq.qc.ca/ark:/52327/3111001)
   * [Le lingot du Saguenay, 1943-1947](http://collections.banq.qc.ca/ark:/52327/2747399)
