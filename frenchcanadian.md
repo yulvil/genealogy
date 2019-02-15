@@ -57,7 +57,7 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
   * [Le Colon 1917-1946 (Roberval)](http://collections.banq.qc.ca/ark:/52327/2059724)
   * [Le Canada 1903-1954 (Montréal)](http://collections.banq.qc.ca/ark:/52327/3559753)
   * [La Presse 1884-2015](http://collections.banq.qc.ca/ark:/52327/3216691)
-  * [Le Soleil 1896-2015](http://collections.banq.qc.ca/ark:/52327/3482838)
+  * [Le Soleil 1896-2016](http://collections.banq.qc.ca/ark:/52327/3482838)
   * [Le Devoir 1910-2012](http://collections.banq.qc.ca/ark:/52327/2786824)
   * [Le Nouvelliste (Trois-Rivière) 1921-2016](http://collections.banq.qc.ca/ark:/52327/3203520)
   * [Le Courrier de St-Hyacinthe 1853-2007](http://collections.banq.qc.ca/ark:/52327/2581442)
