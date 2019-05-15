@@ -61,7 +61,8 @@ https://www.americanancestors.org/education/learning-resources/read/french-canad
   * [Le Devoir 1910-2012](http://collections.banq.qc.ca/ark:/52327/2786824)
   * [Le Nouvelliste (Trois-Rivière) 1921-2016](http://collections.banq.qc.ca/ark:/52327/3203520)
   * [Le Courrier de St-Hyacinthe 1853-2007](http://collections.banq.qc.ca/ark:/52327/2581442)
-  * [Le Peuple, 1880-1887 (Montréal)](http://collections.banq.qc.ca/ark:/52327/3732259)
+  * [Le Peuple 1880-1887 (Montréal)](http://collections.banq.qc.ca/ark:/52327/3732259)
+  * [Le Nord 1878-1901 (Saint-Jérôme)](http://collections.banq.qc.ca/ark:/52327/3732233)
   
 ### 1921-
 
